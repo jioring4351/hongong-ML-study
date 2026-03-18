@@ -20,7 +20,7 @@
 ### 1. 공부한 내용 요약
 - **k-NN 회귀의 한계 확인**: k-NN 모델은 훈련 세트의 범위를 벗어나는 데이터(외측치)에 대해 새로운 예측을 하지 못하고 인접 샘플의 평균만을 반복 출력하는 한계를 확인했다.
 - **선형 회귀(Linear Regression)**: 특성과 타겟 사이의 선형적인 관계를 가장 잘 나타내는 직선의 방정식을 찾는 알고리즘을 학습했다.
-- **모델 파라미터(Model Parameter)**: 사이킷런의 `LinearRegression` 모델이 학습 후 저장하는 계수(`coef_`)와 절편(`intercept_`)의 의미를 파악했다.
+- **모델 파라미터(Model Parameter)**: 사이킷런의 LinearRegression 모델이 학습 후 저장하는 계수(coef_)와 절편(intercept_)의 의미를 파악했다.
 - **다항 회귀(Polynomial Regression)**: 선형 모델의 단순함을 보완하기 위해 특성을 제곱한 항을 추가하여 데이터를 더 잘 설명하는 곡선 모델을 구축했다.
 
 ### 2. 분석 및 궁금한 점 (My Analysis & Questions)
